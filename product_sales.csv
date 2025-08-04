@@ -1,0 +1,31 @@
+﻿Order_ID,Product,Category,Region,Units_Sold,Unit_Price,Order_Date,Sales,Segment,Avg_Spend_Per_Visit
+1001,Lipstick A,Makeup,Central,120,25,3/12/2024,3000,Mid,4.8
+1002,Serum B,Skincare,East,85,60,3/14/2024,5100,High,1.416666667
+1003,Toner C,Skincare,West,60,30,3/15/2024,1800,Low,2
+1004,Perfume X,Fragrance,Central,45,100,3/17/2024,4500,High,0.45
+1005,Brush Set,Accessories,Online,30,45,3/18/2024,1350,Low,0.666666667
+1006,Foundation Z,Makeup,East,75,50,3/20/2024,3750,Mid,1.5
+1007,Cream Y,Skincare,West,95,70,3/21/2024,6650,High,1.357142857
+1008,Cologne M,Fragrance,Online,55,90,3/22/2024,4950,High,0.611111111
+1009,Beauty Blender,Accessories,Central,90,20,3/24/2024,1800,Low,4.5
+1010,Lip Balm S,Skincare,East,110,18,3/25/2024,1980,Low,6.111111111
+1011,Highlighter G,Makeup,West,40,40,3/26/2024,1600,Low,1
+1012,Mask Sheet X,Skincare,Central,70,15,3/27/2024,1050,Low,4.666666667
+1013,Eye Pencil Z,Makeup,East,65,22,3/28/2024,1430,Low,2.954545455
+1014,Mascara Q,Makeup,West,30,35,3/29/2024,1050,Low,0.857142857
+1015,Serum Omega,Skincare,Online,50,65,3/30/2024,3250,Mid,0.769230769
+1016,Perfume Lux,Fragrance,Central,25,110,4/1/2024,2750,Mid,0.227272727
+1017,Cleanser D,Skincare,East,100,28,4/2/2024,2800,Mid,3.571428571
+1018,Eye Shadow V,Makeup,West,45,48,4/3/2024,2160,Mid,0.9375
+1019,Face Mist L,Skincare,Central,60,32,4/4/2024,1920,Low,1.875
+1020,Shampoo S,Haircare,Online,80,30,4/5/2024,2400,Mid,2.666666667
+1021,Conditioner R,Haircare,West,90,33,4/6/2024,2970,Mid,2.727272727
+1022,Body Lotion K,Skincare,East,85,38,4/7/2024,3230,Mid,2.236842105
+1023,Primer N,Makeup,Online,55,42,4/8/2024,2310,Mid,1.30952381
+1024,Nail Polish P,Accessories,Central,70,18,4/9/2024,1260,Low,3.888888889
+1025,Lip Gloss F,Makeup,West,65,24,4/10/2024,1560,Low,2.708333333
+1026,Serum Zeta,Skincare,East,75,55,4/11/2024,4125,High,1.363636364
+1027,Toner Fresh,Skincare,Online,95,27,4/12/2024,2565,Mid,3.518518519
+1028,Hair Wax B,Haircare,West,40,20,4/13/2024,800,Low,2
+1029,Perfume Aqua,Fragrance,Central,35,115,4/14/2024,4025,High,0.304347826
+1030,Sunscreen Y,Skincare,Online,88,36,4/15/2024,3168,Mid,2.444444444

@@ -1,0 +1,31 @@
+﻿Campaign_ID,Product,Start_Date,End_Date,Region,Budget,Campaign_Type
+CAM001,Lipstick A,3/1/2024,3/15/2024,Central,5000,Influencer
+CAM002,Serum B,3/10/2024,3/25/2024,Online,3000,Promo Bundle
+CAM003,Toner C,4/1/2024,4/15/2024,East,4000,Display Ad
+CAM004,Perfume X,3/20/2024,4/5/2024,West,6000,Brand Collab
+CAM005,Brush Set,3/25/2024,4/10/2024,Central,2500,Social Giveaway
+CAM006,Foundation Z,4/1/2024,4/20/2024,East,5500,Display Ad
+CAM007,Cream Y,4/5/2024,4/25/2024,West,4000,Promo Bundle
+CAM008,Cologne M,4/10/2024,4/30/2024,Online,4700,Influencer
+CAM009,Beauty Blender,4/15/2024,5/5/2024,Central,2900,Promo Bundle
+CAM010,Lip Balm S,4/20/2024,5/10/2024,East,3100,Display Ad
+CAM011,Highlighter G,4/25/2024,5/15/2024,West,3300,Social Giveaway
+CAM012,Mask Sheet X,5/1/2024,5/20/2024,Central,2600,Brand Collab
+CAM013,Eye Pencil Z,5/5/2024,5/25/2024,East,2200,Display Ad
+CAM014,Mascara Q,5/10/2024,5/30/2024,West,3400,Promo Bundle
+CAM015,Serum Omega,5/15/2024,6/5/2024,Online,2800,Influencer
+CAM016,Perfume Lux,5/20/2024,6/10/2024,Central,4900,Brand Collab
+CAM017,Cleanser D,5/25/2024,6/15/2024,East,2100,Display Ad
+CAM018,Eye Shadow V,6/1/2024,6/20/2024,West,3600,Promo Bundle
+CAM019,Face Mist L,6/5/2024,6/25/2024,Central,2300,Influencer
+CAM020,Shampoo S,6/10/2024,6/30/2024,Online,3100,Promo Bundle
+CAM021,Conditioner R,6/15/2024,7/5/2024,West,2700,Brand Collab
+CAM022,Body Lotion K,6/20/2024,7/10/2024,East,3500,Social Giveaway
+CAM023,Primer N,6/25/2024,7/15/2024,Online,2400,Display Ad
+CAM024,Nail Polish P,7/1/2024,7/20/2024,Central,2000,Promo Bundle
+CAM025,Lip Gloss F,7/5/2024,7/25/2024,West,3200,Brand Collab
+CAM026,Serum Zeta,7/10/2024,7/30/2024,East,2600,Influencer
+CAM027,Toner Fresh,7/15/2024,8/5/2024,Online,2100,Display Ad
+CAM028,Hair Wax B,7/20/2024,8/10/2024,West,1800,Promo Bundle
+CAM029,Perfume Aqua,7/25/2024,8/15/2024,Central,4000,Brand Collab
+CAM030,Sunscreen Y,8/1/2024,8/20/2024,Online,3700,Influencer

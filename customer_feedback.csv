@@ -1,0 +1,31 @@
+﻿Customer_ID,Age,Gender,Region,Total_Spend,Frequency,Segment,Product,Satisfaction
+C001,28,F,Central,580,6,High,Lipstick A,4
+C002,34,M,East,220,2,Low,Serum B,3
+C003,42,F,West,1120,12,High,Toner C,2
+C004,25,F,Online,340,4,Mid,Perfume X,5
+C005,31,M,West,430,5,Mid,Brush Set,4
+C006,37,F,Central,150,1,Low,Foundation Z,3
+C007,45,M,East,900,9,High,Cream Y,3
+C008,29,F,Online,275,3,Low,Cologne M,1
+C009,33,F,West,720,8,High,Beauty Blender,2
+C010,39,M,Central,310,4,Mid,Lip Balm S,4
+C011,26,F,East,580,7,Mid,Highlighter G,5
+C012,40,M,Online,980,11,High,Mask Sheet X,3
+C013,35,F,West,180,2,Low,Eye Pencil Z,2
+C014,32,M,Central,540,6,Mid,Mascara Q,5
+C015,43,F,East,850,9,High,Serum Omega,3
+C016,27,M,Online,130,1,Low,Perfume Lux,4
+C017,38,F,West,390,5,Mid,Cleanser B,4
+C018,30,M,Central,455,5,Mid,Eye Shadow W,1
+C019,41,F,East,700,7,High,Face Mist L,2
+C020,36,M,Online,325,4,Mid,Shampoo S,3
+C021,29,F,Central,260,3,Low,Conditioner R,2
+C022,31,M,West,810,10,High,Body Lotion K,5
+C023,44,F,East,630,8,Mid,Nail Polish P,3
+C024,33,M,Online,170,2,Low,Lip Gloss F,3
+C025,39,F,West,940,11,High,Serum Zeta,4
+C026,27,M,Central,370,4,Mid,Toner Fresh,2
+C027,34,F,East,495,5,Mid,Hair Wax B,2
+C028,41,M,Online,150,1,Low,Perfume Aqua,1
+C029,30,F,West,300,4,Mid,Serum Prime,5
+C030,36,M,Central,410,5,Mid,Hair Mist T,3
